@@ -45,8 +45,3 @@ Currently interested in **ML/AI**, **growth engineering**, and **distributed sys
 | [Spotify Dashboard](https://github.com/SakuraMochiii/spotify-dashboard) | Personalized dashboard for top tracks, artists, and albums | HTML, Spotify API |
 | [LoL Team Analysis](https://github.com/SakuraMochiii/lol-team-analysis) | Tournament team analysis tool for League of Legends | HTML |
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakuraMochiii&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuraMochiii&layout=compact&theme=tokyonight&hide_border=true)
