@@ -1,4 +1,4 @@
-# Hi, I'm SakuraMochi
+# Hi, I'm SakuraMochii
 
 ## About Me
 
